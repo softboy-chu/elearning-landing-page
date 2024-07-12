@@ -17,3 +17,10 @@ body{
 .get-started{
   background: linear-gradient(#4851FF, #F02AA6);
 }
+
+.hover:active{
+  background: linear-gradient(#FF6F48, #F02AA6);
+  color: white;
+  padding: 15px;
+  margin: 10px;
+}
