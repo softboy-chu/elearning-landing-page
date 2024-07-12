@@ -1,0 +1,19 @@
+body{
+  font-family: Plus Jakarta Sans;
+}
+
+.button button{
+    background: linear-gradient(#FF6F48, #F02AA6);
+}
+
+.courses{
+  background: linear-gradient(#FF6F48, #F02AA6);
+}
+
+.run-svg{
+  background: linear-gradient(#FF6F48, #F02AA6);
+}
+
+.get-started{
+  background: linear-gradient(#4851FF, #F02AA6);
+}
